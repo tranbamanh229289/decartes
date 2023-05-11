@@ -1,4 +1,4 @@
-# decartes: _"I think therefore am"_
+# decartes: _"I am thinking, therefore I exist"_
 ## build application according microservice architeture and non bloking io
 ## Techonology:
 - Spring webflux
