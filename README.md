@@ -7,4 +7,5 @@
 - Multithread Programming
 - Apache Kafka
 - Elasticsearch
-- RedisCache
+- Redis Cache
+- Kong gateway
