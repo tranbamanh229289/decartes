@@ -4,6 +4,6 @@
 - Spring webflux
 - Spring cloud
 - Reactive Programming
-- Multithreading
+- Multithread Programming
 - Apache Kafka
 - Elastic Search
