@@ -1,2 +1,9 @@
-# decartes
-build application according microservice architeture and non bloking io
+# decartes: _"I think therefore am"_
+## build application according microservice architeture and non bloking io
+## Techonology:
+- Spring webflux
+- Spring cloud
+- Reactive Programming
+- Multithreading
+- Apache Kafka
+- Elastic Search
