@@ -6,4 +6,5 @@
 - Reactive Programming
 - Multithread Programming
 - Apache Kafka
-- Elastic Search
+- Elasticsearch
+- RedisCache
