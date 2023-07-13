@@ -1,4 +1,3 @@
-# decartes: _"I am thinking, therefore I exist"_
 ## build application according microservice architeture and non bloking io
 ## Techonology:
 - Spring webflux
@@ -9,3 +8,4 @@
 - Elasticsearch
 - Redis Cache
 - Kong gateway
+## decartes: _"I am thinking, therefore I exist"_
